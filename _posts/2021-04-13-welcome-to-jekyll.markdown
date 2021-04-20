@@ -5,8 +5,6 @@
  categories: jekyll update
 ---
 
-# VSCode Shortcuts
-
 > List of helpful shortcuts for faster coding
 
 If you have any other helpful shortcuts, feel free to add in the comments of this gist :)
