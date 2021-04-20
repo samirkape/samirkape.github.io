@@ -1,3 +1,10 @@
+---
+ layout: post
+ title:  "VSCode Shortcuts"
+ date:   2021-04-20 17:19:15 +0530
+ categories: jekyll update
+---
+
 # VSCode Shortcuts
 
 > List of helpful shortcuts for faster coding
