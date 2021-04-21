@@ -52,6 +52,7 @@ if err := WaitForServer(url); err != nil {
     
 *   **The suffix f** is a widely followed naming convention for variadic functions that accept a Printf-style format string .
     
+---
 
 ### 5 Functions
 
@@ -61,6 +62,8 @@ The running example of this chapter is a web crawler, that is, the component of 
 **Stack**
 
 Typical Go implementations use variable-size stacks that start small and grow as needed up to a limit on the order of a gigabyte. This lets us use recursion safely and without worrying about overflow.
+
+---
 
 #### 5.1 Declaration
 
@@ -103,6 +106,7 @@ Reference data structures like,
     
 5.  Channel
     
+---
 
 #### 5.3 Multiple Returns
 
@@ -126,6 +130,7 @@ func CountWordsAndImages(url string) (words, images int, err error) {
          return. // we can omit names 
 }
 ```
+---
 
 #### 5.4 Error Handling
 
@@ -219,7 +224,7 @@ Error Handling Tips
     
 *   Functions tend to exhibit a common structure, with a series of initial checks to reject errors, followed by the substance of the function at the end, minimally indented.
     
-
+---
 #### 5.4.1 EOF
 
 
@@ -234,7 +239,7 @@ for {
         return fmt.Errorf("read failed: %v", err)
     }        // ...use r...
 ```
-
+---
 #### 5.5 Function Values
 
 
@@ -263,7 +268,7 @@ f = square // compile error: can't assign f(int, int) int to f(int) int
 
 *   Can be compared with nil
     
-
+---
 #### 5.6 Anonymous Functions
 
 
@@ -276,7 +281,7 @@ A function literal is written like a function declaration but without a name fol
 ```
 strings.Map(func(r rune) rune { return r + 1 }, "HAL-9000")
 ```
-
+---
 #### 5.7 Variadic Functions
 
 
@@ -343,7 +348,7 @@ func slice_sum(vals []int) int {
 	return total
 }
 ```
-
+---
 #### 5.8 Deferred Function Calls
 
 
@@ -375,8 +380,6 @@ When you have a resource (such as http.Get(), and opened file ) that needs to be
             
         *   Lock / Unlock
             
-
-* * *
 
 **Where to use?**
 
