@@ -1,0 +1,26 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Go"
+      url: "docs/Go/go_preface"
+      children:
+        - title: Chapter 1
+          url: "docs/Go/go_ch1-2#tutorial"
+        - title: Chapter 2
+          url: "docs/Go/go_ch1-2#program-structure"
+        - title: Chapter 3
+          url: "docs/Go/go_ch3-4"
+        - title: Chapter 4
+          url: "docs/Go/go_ch3-4#composite-data-types"          
+        - title: Chapter 5
+          url: "docs/Go/go_ch5"
+    - title: "Posts"
+      url: "docs/Posts"
+      children:
+        - title: VSCode Shortcuts
+          url: "docs/Posts/vscode/post_vscode"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
+

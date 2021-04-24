@@ -1,8 +1,6 @@
 ---
- layout: post
- title:  "The Go Programming Language: Chapter 5 Notes"
- date:   2021-04-22 17:19:15 +0530
- categories: jekyll update
+ title:  "Chapter 5"
+ description: "From The Go Programming Language"
 ---
 
 - [Random Notes](#random-notes)
