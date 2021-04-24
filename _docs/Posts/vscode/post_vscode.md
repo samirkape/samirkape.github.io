@@ -5,7 +5,9 @@
 
 ## Official List of all commands
 
-* [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+* [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+* [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 ## Open/View
 
