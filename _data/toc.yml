@@ -19,6 +19,8 @@
       children:
         - title: VSCode Shortcuts
           url: "docs/Posts/vscode/post_vscode"
+        - title: Problem Solving
+          url: "docs/Posts/polya/pst
     - title: "About"
       url: "about"
     - title: "News"
