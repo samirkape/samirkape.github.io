@@ -7,6 +7,7 @@
 
 > In 1945 George Polya published the book How To Solve It which quickly became his most prized publication. It sold over one million copies and has been translated into 17 languages. In this book he identifies four basic principles of problem solving.
 
+
 ## Polya’s First Principle: Understand the problem
 This seems so obvious that it is often not even mentioned, yet studens are often stymied in their efforts to solve problems simply because they don’t understand it fully, or even in part. Polya taught teachers to ask students questions such as:
 * Do you understand all the words used in stating the problem?
