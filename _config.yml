@@ -29,7 +29,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://samirkape.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/samirkape"
+repo: "https://github.com/samirkape/samirkape.github.io"
+github_repo: "samirkape.github.io" 
 github_user: "samirkape"
 github_branch: "master"
 
